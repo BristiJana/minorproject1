@@ -1,0 +1,30 @@
+
+
+.eb
+{ 
+background-image:url('https://media3.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif?cid=ecf05e47ld16aggg6n5922t9red1nbyk6nur320flzcryb59&rid=giphy.gif&ct=g'); 
+
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	
+	
+	
+	position:fixed;
+    padding:0;
+    margin:0;
+    width: 100%;
+    height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.emph
+{
+	color:white;
+
+	position: absolute;
+	top:100px;
+}
